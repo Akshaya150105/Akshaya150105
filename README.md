@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>  Hi 👋, I'm Akshaya Srinovasan,Data Science Student<br>🌱 I’m currently learning machine learning and deep Learning Algorithms<br> 📫 How to reach me :akshaya2005srinivasan@gmail.com<br>⚡ Fun fact:I enjoy combining technical skills with creative problem-solving.
+<br>  Hi 👋, I'm Akshaya Srinovasan,Data Science Enthusiast<br>🌱 I’m currently learning machine learning and deep Learning Algorithms<br> 📫 How to reach me :akshaya2005srinivasan@gmail.com<br>⚡ Fun fact:I enjoy combining technical skills with creative problem-solving.
 
 
 # 💻 Tech Stack:
