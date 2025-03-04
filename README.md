@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 <br>  Hi 👋, I'm Akshaya Srinivasan,Data Science Enthusiast<br>🌱 I’m currently learning machine learning and deep Learning Algorithms<br> 📫 How to reach me :akshaya2005srinivasan@gmail.com<br>
 
 
