@@ -8,25 +8,17 @@
 
 ---
 
-## **💻 Tech Stack**  
-### **Programming & Development:**  
+## **💻 Tech Stack**   
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
-
-### **Backend & Frameworks:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-
-### **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Neo4j](https://img.shields.io/badge/Neo4j-%2300A3D9.svg?style=for-the-badge&logo=neo4j&logoColor=white)  
-
-### **Data Science & ML:**  
-### **Data Science & ML:**  
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
@@ -48,8 +40,7 @@
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya150105&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <br/>
-  ![Visitor Count](https://visitcount.itsvg.in/api?id=Akshaya150105&icon=0&color=0)
+ 
 
 </div>
 
