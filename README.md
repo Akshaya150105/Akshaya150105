@@ -6,9 +6,20 @@ Obsessed with patterns, passionate about predictions — a data science journey 
 ---
 
 ### Currently Exploring
-- Machine Learning & Deep Learning  
-- Natural Language Processing  
-- Graph Databases & Big Data Technologies  
+Machine Learning & Deep Learning — building smarter models every day
+Natural Language Processing — making machines understand human language
+Graph Databases & Big Data — connecting the dots with scale 
+ **AI Powered Communication System**  
+Built an AI-powered assistant that integrates Gmail, Slack, and WhatsApp. Smart filtering, context-based responses, and unified task summaries.
+[🔗 View Project](https://github.com/Akshaya150105/AI-Powered-Communication-Assistant)
+##My Featured Works
+🔐 **Encrypted ML Models**  
+*Implemented Paillier & Order-Preserving Encryption (OPE) in XGBoost and Random Forest for secure fraud prediction. Visualized predictions with Streamlit.*  
+[🔗 View Project](https://github.com/Akshaya150105/Credit-Card-Fraud-Detection)
+
+🌐**DataLens**
+A modern web application built with React and TypeScript to upload, analyze, and visualize CSV data. DataLens provides an interactive interface for exploring datasets through dynamic tables, charts, and statistical insights, making data analysis accessible and intuitive
+[🔗 View Project](https://github.com/Akshaya150105/Datalens)
 
 ###  Let's Connect
 - 📧 akshaya2005srinivasan@gmail.com  
