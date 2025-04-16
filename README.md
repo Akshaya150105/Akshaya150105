@@ -12,7 +12,7 @@ Obsessed with patterns, passionate about predictions — a data science journey 
 
 ###  Let's Connect
 - 📧 akshaya2005srinivasan@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/akshaya-srinivasan-467a8b255) | [GitHub](https://github.com/Akshaya150105)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akshaya-srinivasan-467a8b255) 
 
 ---
 
