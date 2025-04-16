@@ -6,9 +6,9 @@ Obsessed with patterns, passionate about predictions — a data science journey 
 ---
 
 ### Currently Exploring
-Machine Learning & Deep Learning — building smarter models every day
-Natural Language Processing — making machines understand human language
-Graph Databases & Big Data — connecting the dots with scale 
+* Machine Learning & Deep Learning — building smarter models every day
+* Natural Language Processing — making machines understand human language
+* Graph Databases & Big Data — connecting the dots with scale 
 ## 🚀 Featured Projects
 
  **AI Powered Communication System**  
