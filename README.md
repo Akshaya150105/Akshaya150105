@@ -12,12 +12,14 @@ Graph Databases & Big Data — connecting the dots with scale
 ## 🚀 Featured Projects
 
  **AI Powered Communication System**  
+ 
 Built an AI-powered assistant that integrates Gmail, Slack, and WhatsApp. Smart filtering, context-based responses, and unified task summaries.
 
-🔐 **Encrypted ML Models**  
+**Encrypted ML Models**  
+
 *Implemented Paillier & Order-Preserving Encryption (OPE) in XGBoost and Random Forest for secure fraud prediction. Visualized predictions with Streamlit.*  
 
-🌐**DataLens**
+**DataLens**
 
 A modern web application built with React and TypeScript to upload, analyze, and visualize CSV data. DataLens provides an interactive interface for exploring datasets through dynamic tables, charts, and statistical insights, making data analysis accessible and intuitive.
 
