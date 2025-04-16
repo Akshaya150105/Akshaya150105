@@ -17,14 +17,14 @@ Built an AI-powered assistant that integrates Gmail, Slack, and WhatsApp. Smart 
 
 **Encrypted ML Models**  
 
-*Implemented Paillier & Order-Preserving Encryption (OPE) in XGBoost and Random Forest for secure fraud prediction. Visualized predictions with Streamlit.*  
+Implemented Paillier & Order-Preserving Encryption (OPE) in XGBoost and Random Forest for secure fraud prediction. Visualized predictions with Streamlit.
 
 **DataLens**
 
 A modern web application built with React and TypeScript to upload, analyze, and visualize CSV data. DataLens provides an interactive interface for exploring datasets through dynamic tables, charts, and statistical insights, making data analysis accessible and intuitive.
 
 
-###  Let's Connect
+## Let's Connect
 - 📧 akshaya2005srinivasan@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/akshaya-srinivasan-467a8b255) 
 
