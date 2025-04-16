@@ -10,9 +10,11 @@ Machine Learning & Deep Learning — building smarter models every day
 Natural Language Processing — making machines understand human language
 Graph Databases & Big Data — connecting the dots with scale 
 ## 🚀 Featured Projects
+
  **AI Powered Communication System**  
 Built an AI-powered assistant that integrates Gmail, Slack, and WhatsApp. Smart filtering, context-based responses, and unified task summaries.
 [🔗 View Project](https://github.com/Akshaya150105/AI-Powered-Communication-Assistant)
+
 🔐 **Encrypted ML Models**  
 *Implemented Paillier & Order-Preserving Encryption (OPE) in XGBoost and Random Forest for secure fraud prediction. Visualized predictions with Streamlit.*  
 [🔗 View Project](https://github.com/Akshaya150105/Credit-Card-Fraud-Detection)
