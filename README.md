@@ -21,7 +21,7 @@ Built an AI-powered assistant that integrates Gmail, Slack, and WhatsApp. Smart 
 
 🌐**DataLens**
 
-A modern web application built with React and TypeScript to upload, analyze, and visualize CSV data. DataLens provides an interactive interface for exploring datasets through dynamic tables, charts, and statistical insights, making data analysis accessible and intuitive
+A modern web application built with React and TypeScript to upload, analyze, and visualize CSV data. DataLens provides an interactive interface for exploring datasets through dynamic tables, charts, and statistical insights, making data analysis accessible and intuitive.
 [🔗 View Project](https://github.com/Akshaya150105/Datalens)
 
 ###  Let's Connect
