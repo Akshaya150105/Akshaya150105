@@ -21,7 +21,7 @@ Obsessed with patterns, passionate about predictions — a data science journey 
     Built and deployed XGBoost & Random Forest models trained on encrypted data using homomorphic encryption.
 
 🔹**DataLens**
-    Built modern web application built with React and TypeScript to upload, analyze, and visualize CSV data. DataLens provides an interactive interface for exploring datasets through dynamic tables, charts, and statistical insights, making data analysis accessible and intuitive.
+        Built modern web application built with React and TypeScript to upload, analyze, and visualize CSV data. DataLens provides an interactive interface for exploring datasets through dynamic tables, charts, and statistical insights, making data analysis accessible and intuitive.
 
 
 ## Let's Connect
