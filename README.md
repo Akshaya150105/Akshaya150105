@@ -1,27 +1,27 @@
-# 🌟 Welcome to My GitHub!
+
 
 ### Hi there, I'm **Akshaya Srinivasan** 👋  
 Obsessed with patterns, passionate about predictions — a data science journey in progress.
 
 ---
+## 👩‍💻 About Me
+- 💡 Passionate about **Machine Learning**, **Deep Learning**, and **Software Development**.
+- 🔬 Hands-on experience in projects involving **Natural Language Processing**, **Graph Databases**, and **Predictive Analytics**.
+- 🔐 Interested in **Privacy-Preserving AI**, working with encrypted models and secure machine learning systems.
 
-### Currently Exploring
-* Machine Learning & Deep Learning — building smarter models every day
-* Natural Language Processing — making machines understand human language
-* Graph Databases & Big Data — connecting the dots with scale 
-## 🚀 Featured Projects
+## 💡 My Work So Far
 
- **AI Powered Communication System**  
- 
-Built an AI-powered assistant that integrates Gmail, Slack, and WhatsApp. Smart filtering, context-based responses, and unified task summaries.
+🔹 **AI Powered Communication System**  
+    Built an AI-powered assistant that integrates Gmail, Slack, and WhatsApp. Smart filtering, context-based responses, and unified task summaries.
 
-**Encrypted ML Models**  
+🔹 **Legal Document Classifier with Legal-BERT**  
+    Fine-tuned transformer models to classify legal documents into contracts, judgments, and land records.
 
-Implemented Paillier & Order-Preserving Encryption (OPE) in XGBoost and Random Forest for secure fraud prediction. Visualized predictions with Streamlit.
+🔹 **Privacy-Preserving AI for Fraud Detection**  
+    Built and deployed XGBoost & Random Forest models trained on encrypted data using homomorphic encryption.
 
-**DataLens**
-
-A modern web application built with React and TypeScript to upload, analyze, and visualize CSV data. DataLens provides an interactive interface for exploring datasets through dynamic tables, charts, and statistical insights, making data analysis accessible and intuitive.
+🔹**DataLens**
+    Built modern web application built with React and TypeScript to upload, analyze, and visualize CSV data. DataLens provides an interactive interface for exploring datasets through dynamic tables, charts, and statistical insights, making data analysis accessible and intuitive.
 
 
 ## Let's Connect
@@ -72,9 +72,7 @@ A modern web application built with React and TypeScript to upload, analyze, and
 
 </div>
 
-
-
-
-
-
 ---
+
+> 🔍 Check out my pinned repositories below to explore my work!
+
