@@ -7,7 +7,7 @@ Obsessed with patterns, passionate about predictions — a data science journey 
 ## 👩‍💻 About Me
 - 💡 Passionate about **Machine Learning**, **Deep Learning**, and **Software Development**.
 - 🔬 Hands-on experience in projects involving **Natural Language Processing**, **Graph Databases**, and **Predictive Analytics**.
-- 🔐 Interested in **Privacy-Preserving AI**, working with encrypted models and secure machine learning systems.
+- ⚙️ Focused on building **real-time intelligent systems** that solve practical, domain-specific problems.
 
 ## 💡 My Work So Far
 
