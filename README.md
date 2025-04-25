@@ -17,7 +17,7 @@ Obsessed with patterns, passionate about predictions — a data science journey 
 🔹 **Legal Document Classifier with Legal-BERT**  
     Fine-tuned transformer models to classify legal documents into contracts, judgments, and land records.
 
-🔹 **Privacy-Preserving AI for Fraud Detection**  
+🔹 **Privacy-Preserving AI for Credit Card Fraud Detection**  
     Built and deployed XGBoost & Random Forest models trained on encrypted data using homomorphic encryption.
 
 🔹**DataLens**
