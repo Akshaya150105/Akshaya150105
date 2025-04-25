@@ -66,7 +66,7 @@ Obsessed with patterns, passionate about predictions — a data science journey 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Akshaya150105&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">  
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaya150105&theme=radical&hide_border=false" alt="GitHub Streak">  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaya150105&theme=radical&hide_border=false">  
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya150105&theme=radical&layout=compact&hide_border=false" alt="Top Languages">
 
